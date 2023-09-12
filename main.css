@@ -19,10 +19,10 @@
     padding: 10px;
     
 }
-#buddy{
+#probody{
     margin-left: 160px;
 }
-#buddyimg{
+#bodiesimg{
     height: 10rem;
     width: 10rem;
     border-radius: 90px;
@@ -37,12 +37,12 @@
         width: 100px;
         
     }
-    #buddyimg{
+    #bodiesimg{
         height: 7rem;
         width: 7rem;
         border-radius: 80px;
     }
-    #buddy{
+    #probody{
         margin-left: 0px;
     }
     ul {
